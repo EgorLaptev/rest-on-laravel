@@ -1,0 +1,8 @@
+POST http://xxxxxx-m2.wsr.ru/api/register
+Accept: */*
+Cache-Control: no-cache
+
+<> 2021-05-30T040050.302.html
+
+###
+
